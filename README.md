@@ -1,1 +1,1 @@
-This is a GitHub repository!
+Welcome! This is a GitHub repository! 
